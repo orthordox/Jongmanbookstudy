@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7c5ee88e3949486",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5ce04c30f78675c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ch2. 문제 해결 개관/2.2 문제 해결 과정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac6f8b1d56c8ab16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ch2. 문제 해결 개관/2.3 문제 해결 전략.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ch2. 문제 해결 개관/2.3 문제 해결 전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ch2. 문제 해결 개관/2.3 문제 해결 전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Ch2. 문제 해결 개관/2.3 문제 해결 전략.md"
               }
             }
           }
@@ -155,9 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ce04c30f78675c8",
+  "active": "ac6f8b1d56c8ab16",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Ch1"
+    "Ch2. 문제 해결 개관/2.2 문제 해결 과정.md",
+    "Ch2. 문제 해결 개관/2.3 문제 해결 전략.md",
+    "Ch1. 문제 해결과 프로그래밍 대회/문제 해결과 프로그래밍 대회.md",
+    "Ch2. 문제 해결 개관",
+    "Ch1. 문제 해결과 프로그래밍 대회"
   ]
 }
